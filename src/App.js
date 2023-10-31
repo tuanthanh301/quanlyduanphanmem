@@ -6,7 +6,6 @@ function App() {
     <div className="App">
       <header className="App-header">
         Đây là header
-        <p>Tôi đang tạo conflict </p>
       </header>
     </div>
   );
